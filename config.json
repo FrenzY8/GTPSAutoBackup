@@ -1,0 +1,10 @@
+{
+    "loop": 1,
+    "exeName": "./Release/servr.exe",
+    "targetBackup": "./Release/database",
+    "targetFTPSave": "./backup",
+    "outputName": "backup.zip",
+    "hostFTP": "abc.my.id",
+    "userFTP": "username@abc.my.id",
+    "passFTP": "pass"
+}
